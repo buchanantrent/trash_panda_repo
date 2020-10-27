@@ -2,6 +2,6 @@
 
 For ESM 206 week 4 **Discussions**!
 
-## **Obi Wan Catobi**
+## **Obi Wan Catnobi**
 ![](https://octodex.github.com/images/octobiwan.jpg)
 
