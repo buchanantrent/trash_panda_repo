@@ -12,6 +12,9 @@ library(tidyverse)
 
 ```{r}
 ggplot(data = mpg, aes(x = class, y = cty)) +
-	geom_jitter()
+	geom_jitter(alpha = 0.5) +
+  labs(x = "Vehicle Class",
+       y = "City (mpg)",
+       title = "City Fuel Economy by Vehicle Class")
 ```
 
